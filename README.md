@@ -15,7 +15,7 @@ Balance Rush is a 3D ball-platforming game built with Unity. Players guide a bal
 - **Level progression:** Reach the finish line to advance to the next level.
 - **3D presentation:** Colorful environments with an elevated view of the course.
 
-## My Role
+## Development Highlights
 
 Developed this 3D game using Unity.
 
